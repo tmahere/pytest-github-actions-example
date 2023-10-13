@@ -1,3 +1,10 @@
+#gained a better understanding of the syntax of creating GitHub workflows
+# learned how to name the workflow syntactically, 
+#how to trigger the work flow
+#how to configure the workflow and how to implemenet steps 
+
+
+
 name: Run Unit Test via Pytest
 
 on: [push]
